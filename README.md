@@ -1,14 +1,15 @@
 # Map-Visualisation-of-Ghana-s-Energy-Sector
-This map shows the distribution of Ghana's energy sub-stations
+"This map shows the distribution of Ghana's energy sub-stations"
+
 https://samysagoe.github.io/Map-Visualisation-of-Ghana-s-Energy-Sector/
+
 <!DOCTYPE html>
 <html>
   <head>
     <title>Energy-Map-of-Ghana</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-<html>
-  <head>
+
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   <script>
     google.charts.load('current', { 'packages': ['map'] });
